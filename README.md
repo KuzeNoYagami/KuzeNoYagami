@@ -17,4 +17,4 @@ If you found value in something I have created, please feel free to give me a sh
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KuzeNoYagami&layout=compact&hide_border=true)
 
 [![snake gif](https://github.com/KuzeNoYagami/KuzeNoYagami/blob/output/github-contribution-grid-snake.gif)](https://github.com/KuzeNoYagami/KuzeNoYagami/blob/output/github-contribution-grid-snake.svg)
-https://github.com/KuzeNoYagami/KuzeNoYagami/blob/output/github-contribution-grid-snake.gif
+[![snake gif]https://github.com/KuzeNoYagami/KuzeNoYagami/blob/output/github-contribution-grid-snake.gif
