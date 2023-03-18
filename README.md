@@ -1,6 +1,7 @@
 ### Hi there 👋
 
-I am Advance Programmer, Hardware Engineer, IT Support & looking to solve real world problems. I have a passion for learning and sharing my knowledge with others as publicly as possible. 
+I am Advance Programmer, Hardware Engineer, IT Support & looking to solve real world problems. 
+I have a passion for learning and sharing my knowledge with others as publicly as possible. 
 If you found value in something I have created, please feel free to give me a shout out [@Irvan_Ade](https://twitter.com/XCloud36/) or give some ♥ on [mail](mailto:irvanade36@yahoo.com). Feel free to reach out in case you want to just get in touch also.
 
 <p align='center'>
