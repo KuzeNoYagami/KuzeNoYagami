@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi Everyone 👋
 
 I am Advance Programmer, Hardware Engineer, IT Support & looking to solve real world problems. 
 I have a passion for learning and sharing my knowledge with others as publicly as possible. 
