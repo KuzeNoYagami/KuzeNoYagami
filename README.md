@@ -17,3 +17,5 @@ If you found value in something I have created, please feel free to give me a sh
 
 ![Irvan Ade's github stats](https://github-readme-stats.vercel.app/api?username=KuzeNoYagami&hide=contribs,prs&show_icons=true&hide_border=true&title_color=000)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KuzeNoYagami&layout=compact&hide_border=true)
+
+![gitartwork](gitartwork.svg)
