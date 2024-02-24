@@ -18,3 +18,8 @@ If you found value in something I have created, please feel free to give me a sh
 ![Irvan Ade's github stats](https://github-readme-stats.vercel.app/api?username=KuzeNoYagami&hide=contribs,prs&show_icons=true&hide_border=true&title_color=000)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KuzeNoYagami&layout=compact&hide_border=true)
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/KuzeNoYagami/KuzeNoYagami/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/KuzeNoYagami/KuzeNoYagami/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/KuzeNoYagami/KuzeNoYagami/output/github-contribution-grid-snake.svg">
+</picture>
